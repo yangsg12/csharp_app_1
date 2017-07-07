@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp_app_1", "csharp_app_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1_picbox", "WindowsFormsApp1_picbox\WindowsFormsApp1_picbox.csproj", "{D68A434A-B882-445B-9000-EEA2FE20823C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "change_color", "change_color\change_color.csproj", "{AB623865-1396-45E2-986C-1D90BAF32CE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D68A434A-B882-445B-9000-EEA2FE20823C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D68A434A-B882-445B-9000-EEA2FE20823C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D68A434A-B882-445B-9000-EEA2FE20823C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB623865-1396-45E2-986C-1D90BAF32CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB623865-1396-45E2-986C-1D90BAF32CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB623865-1396-45E2-986C-1D90BAF32CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB623865-1396-45E2-986C-1D90BAF32CE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
